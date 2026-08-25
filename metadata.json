@@ -1,0 +1,6 @@
+{
+  "name": "AI Employee Knowledge Assistant",
+  "description": "Enterprise AI Knowledge & RAG Assistant for instant SOP, HR, DevOps, and project documentation answers with citations, voice, OCR document ingestion, and multilingual synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
